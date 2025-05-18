@@ -2,7 +2,7 @@
 name = "cambodia-dpl-navigator"
 version = "0.1.0"
 description = ""
-authors = ["kroeungcyber <kroeungcyber@gmail.com>"]
+authors = ["kroeungcyber"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
